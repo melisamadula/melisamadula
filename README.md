@@ -8,11 +8,14 @@ I'm **Melisa Madula** from South Africa, and I'm currently a Software Developmen
 ## Frameworks
 ⚒️ Tailwind
 
-## Projects
-🔎
+## Projects 🔎
+- https://github.com/melisamadula/Module_08_MELMAD25531_FTO2506_GroupB_MelisaMadula_SDF05.git
+- https://github.com/melisamadula/Module_08_MELMAD25531_FTO2506_GroupB_MelisaMadula_SDF04.git
+- https://github.com/melisamadula/Module_04_MELMAD25531_FTO2506_GroupB_MelisaMadula_SDF02.git
+- https://github.com/melisamadula/Module_02_MELMAD25531_FTO2506_GroupB_MelisaMadula_SDF01.git
 
-## Contact Me
-📫 Reach me via email: melisamadula.mm@gmail.com
+## Contact Me 📫
+Reach me via email: melisamadula.mm@gmail.com
 
-## Fun Facts
-⚡ Fun fact: Learning Figma
+## Fun Facts ⚡
+Fun fact: Learning Figma
