@@ -1,16 +1,18 @@
 ## Hi there 👋
+I'm **Melisa Madula** from South Africa, and I'm currently a Software Development student. I hope to further my skills, through learning more coding languages; so that I can continue to build projects that are successful and fufilling. At the end of my course, I will be a fully equiped Junior Developer, that'll be ready to begin their journey to reaching their goals.
 
-<!--
-**melisamadula/melisamadula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Languages
+💻 HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Frameworks
+⚒️ Tailwind
+
+## Projects
+🔎
+
+## Contact Me
+📫 Reach me via email: melisamadula.mm@gmail.com
+
+## Fun Facts
+⚡ Fun fact: Learning Figma
